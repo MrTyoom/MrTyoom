@@ -19,10 +19,6 @@ I'm a student at **HSE University** (2022 — present), previously at **Physics 
 
 My main interest is **Computer Vision** — from low-level image processing and psychophysics of human vision to modern deep learning architectures.
 
-Right now I'm:
-- studying CV fundamentals (feature detection, stereo, segmentation)
-- reproducing psychophysical experiments on visual perception (Simkin's dissertation)
-- building intuition for how humans and machines see differently
 
 ---
 
@@ -31,7 +27,6 @@ Right now I'm:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -43,22 +38,5 @@ Right now I'm:
 |---------|-------------|
 | [superpoint](https://github.com/MrTyoom/superpoint) | Experiments with SuperPoint keypoint detector |
 | [Project-Jackal](https://github.com/MrTyoom/Project-Jackal) | Board game Jackal with voice control — course project |
-| [DL_HSE_3-2](https://github.com/MrTyoom/DL_HSE_3-2_course) | Deep Learning coursework at HSE |
+| [DL_HSE_3-2](https://github.com/MrTyoom/DL_HSE_3-2_course) | A series of analyses and experiments based on recent ICCV/ICLR papers |
 
----
-
-## GitHub stats
-
-<div align="center">
-
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTyoom&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTyoom&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-<sub>If vision is the gateway to intelligence — I'm learning to open it.</sub>
-</div>
