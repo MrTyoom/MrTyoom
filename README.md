@@ -2,7 +2,7 @@
 
 # Artem Sorokin
 
-**Computer Vision Engineer in training**
+**Computer Vision Engineer**
 
 *Saint-Petersburg · HSE University · 21 y.o.*
 
